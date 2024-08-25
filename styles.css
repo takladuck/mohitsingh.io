@@ -1,4 +1,4 @@
-/* Basic styles */
+
 body {
     font-family: 'Roboto', sans-serif;
     margin: 0;
@@ -11,7 +11,7 @@ h1, h2 {
     color: #e0e0e0;
 }
 
-/* Header styles */
+
 header {
     background-color: #1f1f1f;
     color: #4CAF50;
@@ -19,7 +19,6 @@ header {
     padding: 1em 0;
 }
 
-/* Main content styles */
 main {
     max-width: 800px;
     margin: 2em auto;
@@ -28,7 +27,7 @@ main {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
-/* About Me section */
+
 #about {
     background-color: #333;
     padding: 1em;
@@ -40,7 +39,7 @@ main {
     margin-top: 0.5em;
 }
 
-/* Education section */
+
 .education {
     margin-bottom: 2em;
 }
@@ -50,7 +49,7 @@ main {
     color: #aaa;
 }
 
-/* Section styles */
+
 h2 {
     border-bottom: 2px solid #4CAF50;
     padding-bottom: 0.5em;
@@ -61,14 +60,14 @@ p {
     margin: 0.5em 0;
 }
 
-/* Social media icon styles */
+
 #linkedin img, #twitter img {
-    width: 24px; /* Adjust the width as needed */
-    height: 24px; /* Adjust the height as needed */
-    vertical-align: middle; /* Aligns the icon with the middle of the text */
+    width: 24px; 
+    height: 24px; 
+    vertical-align: middle; 
 }
 
-/* Footer styles */
+
 footer {
     background-color: #1f1f1f;
     color: #4CAF50;
